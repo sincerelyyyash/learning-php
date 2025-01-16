@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>User Signup</title>
-    <style>
-        body {
+    <style>        body {
             font-family: Arial, sans-serif;
             background-color: #f0f2f5;
             display: flex;
@@ -57,7 +56,8 @@
         a:hover {
             text-decoration: underline;
         }
-    </style>
+
+</style>
 </head>
 <body>
     <div class="card">
@@ -93,4 +93,3 @@
     </div>
 </body>
 </html>
-
